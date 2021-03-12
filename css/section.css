@@ -17,33 +17,25 @@
   padding: 5px;
 }
 
-.section__button--underscore {
-  color:hsl(0, 0%, 100%);
-  background-color: hsl(180, 100%, 25%);
-  border-style: none;
-  font-size: 14px;
-  padding: 8px;
-  margin: 5px;
-}
-
-.section--bold{
+.section--bold {
   font-weight: bold;
 }
 
 .section__button {
-  background-color: hsl(180, 100%, 25%);
+  background-color: hsl(0, 0%, 83%);
   border-style: none;
   font-size: 14px;
   padding: 8px;
   margin: 5px;
-  opacity: 0.8;
-}
-
-.section__button:hover {
-  background-color: hsl(180, 100%, 35%);
+  cursor: context-menu; 
 }
 
 .section__button--link {
-  color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 0%);
   text-decoration: none;
+  cursor: context-menu;
+}
+
+.section__button--size {
+  font-size: 22px;
 }
