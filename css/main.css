@@ -1,6 +1,6 @@
 .main {
-  background-color: hsl(0, 0%, 100%);
-  color: hsl(180, 100%, 25%);
+  background-color: hsl(180, 100%, 25%);
+  color: hsl(0, 0%, 100%);
 }
 
 .div__underline--lightgrey {
