@@ -9,7 +9,7 @@
 .section__h1 {
   text-align: center;
   font-size: 22px;
-  color: hsl(180, 100%, 25%);
+  color: hsl(0, 0%, 100%);
 }
 
 .section__paragraph {
